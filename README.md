@@ -14,3 +14,5 @@ https://github.com/zhz503/ucb-project
 
 #### Thesis:
 ##### 1.Undergraduate thesis：Position and attitude control of ROV based on dynamic positioning system 
+https://github.com/zhz503/undergraduate-thesis
+##### 2.Missile Control Design
