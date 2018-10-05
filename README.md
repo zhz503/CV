@@ -1,6 +1,5 @@
 # CV
-This is my personal resume.
-
+#### Resume:
 pdf file is here:
 
 #### My research projects url:
