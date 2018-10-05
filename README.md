@@ -1,2 +1,4 @@
 # CV
-This is about my personal resume
+This is my personal resume.
+pdf file is here:
+
