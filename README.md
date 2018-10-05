@@ -3,7 +3,7 @@
 pdf file is here:
 
 #### My research projects url:
-##### 1. ucb-project as Team leader:Fake News detection algorithm 
+##### 1. UCB-project as Team leader:Fake News detection algorithm 
 https://github.com/zhz503/ucb-project
 ##### 2. Human Frontier program:
 
