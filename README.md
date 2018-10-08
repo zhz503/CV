@@ -1,6 +1,7 @@
 # CV
 #### Resume:
 pdf file is here:
+https://github.com/zhz503/CV/blob/master/Zhaoliang%20Zheng-Resume.pdf  
 
 #### My research projects url:
 ##### 1. UCB-project as Team leader:Fake News detection algorithm 
