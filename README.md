@@ -10,6 +10,8 @@ https://github.com/zhz503/ucb-project
 https://github.com/zhz503/Human-Frontier  
 ##### 3. Bio-inspired robots program:
 https://github.com/zhz503/MAE-207-project-Bio-inspired-robotics
+##### 4. Ship Identification from Satellite images:  
+https://github.com/zhz503/ML-project-Ship-identification-from-satellite-images
 #### Patent: Multifunctional Doula Chair for pregnant woman
 
 #### Thesis:
