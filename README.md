@@ -3,7 +3,7 @@
 pdf file is here:
 https://github.com/zhz503/CV/blob/master/Zhaoliang%20Zheng-Resume.pdf  
 ### Transcipt:  
-
+https://github.com/zhz503/CV/blob/master/academic_history.pdf  
 ### My research projects url:
 ##### 1. UCB-project as Team leader:Fake News detection algorithm 
 https://github.com/zhz503/ucb-project
