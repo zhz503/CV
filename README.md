@@ -19,3 +19,7 @@ https://github.com/zhz503/ML-project-Ship-identification-from-satellite-images
 ##### 1.Undergraduate thesis：Position and attitude control of ROV based on dynamic positioning system 
 https://github.com/zhz503/undergraduate-thesis
 ##### 2.Missile Control Design
+
+### Patent:
+#### Multifunctional Dola Chair:
+
