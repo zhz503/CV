@@ -21,5 +21,5 @@ https://github.com/zhz503/undergraduate-thesis
 ##### 2.Missile Control Design
 
 ### Patent:
-#### Multifunctional Dola Chair:
-
+#### Multifunctional Dola Chair:  
+https://github.com/zhz503/Multifunctional-Dola-Chair-
